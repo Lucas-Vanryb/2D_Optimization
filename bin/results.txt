@@ -1,0 +1,8 @@
+  Deplacement du Bloc5 en (0,0)
+  Deplacement du Bloc4 en (1,1)
+  Deplacement du Bloc5 en (4,0)
+  Deplacement du Bloc3 en (0,0)
+  Deplacement du Bloc4 en (3,0)
+  Deplacement du Bloc3 en (1,1)
+  Deplacement du Bloc1 en (0,0)
+  Deplacement du Bloc3 en (2,0)
