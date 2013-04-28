@@ -121,6 +121,12 @@ public class IHM implements IIHM {
 	 * On attend qu'il ait saisi les données
 	 */
 	while(d.getEnCours()) {
+		try {
+			Thread.sleep(100);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	/*
 	 * On met à jour les données de this
@@ -141,6 +147,12 @@ public class IHM implements IIHM {
 	 * On attends qu'il ait saisit les données
 	 */
 	while(s.enCours) {
+		try {
+			Thread.sleep(100);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	/*
 	 * On met à jour les données de this
